@@ -1,2 +1,1 @@
-# MealApp
-Full Stack Development
+# MealsApp
